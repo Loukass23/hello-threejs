@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@seregpie/three.text-sprite": "^2.0.0",
+    "@seregpie/three.text-texture": "^2.0.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,10 +12,17 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "flubber": "^0.4.2",
+    "popmotion": "^8.7.1",
     "react": "^16.12.0",
+    "react-anime": "^3.0.3",
     "react-dom": "^16.12.0",
+    "react-pose": "^4.0.10",
     "react-scripts": "3.4.0",
-    "typescript": "~3.7.2"
+    "react-three-fiber": "^4.0.17",
+    "three": "^0.113.2",
+    "typescript": "~3.7.2",
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
