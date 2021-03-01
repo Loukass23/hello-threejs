@@ -20,7 +20,7 @@
     "react-pose": "^4.0.10",
     "react-scripts": "3.4.0",
     "react-three-fiber": "^4.0.17",
-    "three": "^0.113.2",
+    "three": "^0.125.0",
     "typescript": "~3.7.2",
     "yarn": "^1.22.0"
   },
